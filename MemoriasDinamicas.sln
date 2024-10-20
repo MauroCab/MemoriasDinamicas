@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoriasDinamicas.BE", "MemoriasDinamicas\MemoriasDinamicas.BE.csproj", "{1B61CF94-E171-4F51-AD96-A564184AAB96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoriasDinamicas.FE", "MemoriasDinamicas.FE\MemoriasDinamicas.FE.csproj", "{D3B8C1A8-8A3F-4875-A327-B9B014A28576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B61CF94-E171-4F51-AD96-A564184AAB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B61CF94-E171-4F51-AD96-A564184AAB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B61CF94-E171-4F51-AD96-A564184AAB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B61CF94-E171-4F51-AD96-A564184AAB96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B8C1A8-8A3F-4875-A327-B9B014A28576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B8C1A8-8A3F-4875-A327-B9B014A28576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B8C1A8-8A3F-4875-A327-B9B014A28576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B8C1A8-8A3F-4875-A327-B9B014A28576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710F37F4-00CE-4ABF-9DF3-299460BB5D41}
+	EndGlobalSection
+EndGlobal
